@@ -1,0 +1,50 @@
+*{
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Covered By Your Grace', cursive;
+   
+}
+
+body{
+    background-color: rgb(163, 93%, 53%);
+}
+.container{
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(206, 255, 8);
+    border-radius: 5%;
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+    font-size: 200px;
+    margin-bottom: 50px;
+}
+
+.show{
+    font-size: 200px ;
+    
+}
+
+#DECREMENTAR{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#RESETEAR{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#INCREMENTAR{
+    font-size: 30px;
+    cursor: pointer;
+}
